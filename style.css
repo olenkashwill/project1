@@ -1,0 +1,27 @@
+
+
+
+{background-color:"coral";}
+opacity: .25;
+}
+	{ opacity=1;
+	}
+	
+
+h1 {
+	color: mediumorchid;
+	font-size: 30px;
+	font-family: 'Merienda' , cursive;
+}
+h3 {
+    font-family: 'Merienda' , cursive;
+	font-size: 30px;
+	}
+h2 {
+    font-family: 'Merienda' , cursive;
+	font-size: 30px;
+	}
+	
+img {opacity: 0.25;
+	filter: alpha(opacity=50);
+}
